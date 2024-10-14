@@ -1,1 +1,1 @@
-Commit firmado GPG
+Doblemente firmado
