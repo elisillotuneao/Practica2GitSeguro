@@ -3,7 +3,7 @@ name: Comprobar fugas
 on:
   push:
     branches:
-      - main
+      - action-gitleaks
 
 jobs:
   gitleaks:
