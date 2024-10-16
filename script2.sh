@@ -1,2 +1,1 @@
-dd
-Porfi funciona
+Esto es un script

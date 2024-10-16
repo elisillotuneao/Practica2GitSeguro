@@ -1,2 +1,1 @@
-Funciona
-GPG
+Esto también es un script
